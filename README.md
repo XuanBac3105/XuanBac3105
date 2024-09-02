@@ -31,8 +31,7 @@
 <br>
 <a href= https://github.com/XuanBac3105?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>(Update) </a>
 <br>
-<a href= https://github.com/XuanBac3105?tab=repositories > <img width ='32px' src ='imgs
-/icons8-mysql-logo-48.png'>(Update) </a>
+<a href= https://github.com/XuanBac3105?tab=repositories > <img width ='32px' src ='imgs/icons8-mysql-logo-48.png'>(Update) </a>
 <br>
 <a href= https://github.com/XuanBac3105?tab=repositories > <img width ='32px' src ='imgs/icons8-postman-is-the-only-complete-api-development-environment-48.png'> (Update)</a>
 
