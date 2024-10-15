@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b8fd2c6c-c6fc-4c30-baad-153e6f849aea)<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Xuan Bac</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Xuan Bac</h1>
 <h3 align="center">Hi! My name is Xuan Bac. I'm from Viet Nam <img width ='32px' src="imgs/vietnam.webp"></h3>
 
 <br>
